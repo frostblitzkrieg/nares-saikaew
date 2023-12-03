@@ -1,0 +1,23 @@
+body {
+ background-color: goldenrod;
+}
+
+h1 {
+    color: #FF2D00;
+    text-align: left;
+}
+
+h2 {
+    color: #04FF00;
+    text-align: left;
+}
+
+p {
+    color: aqua;
+    text-align: left;
+}
+
+h3 {
+    color: aqua;
+    text-align: left;
+}
